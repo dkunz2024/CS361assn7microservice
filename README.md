@@ -14,3 +14,5 @@
 Please let me know if you have any questions! You can reach me over discord & text like we have been communicating with so far.
 
 ## UML sequence diagram
+The assn7send.py file gathers and sends over a user's zipcode/address using main(). After assn7receive.py receives it, nothing else happens.
+![UMLsequence](https://user-images.githubusercontent.com/56979982/180923662-a8453aa4-c2f6-43c3-9fbb-e859161e1703.png)
